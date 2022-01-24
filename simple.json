@@ -13,7 +13,7 @@
       "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6891884688986897224/posts/1566031083257320873",
       "title": "THE HOUND OF THE BASKERVILLES",
       "content": "",
-      "images": "https://www.gutenberg.org/files/2852/2852-h/images/cover.jpg",
+      "img": "https://www.gutenberg.org/files/2852/2852-h/images/cover.jpg",
       "author": {
         "id": "03286011044820943011",
         "displayName": "sayang classic 90",
@@ -43,7 +43,7 @@
       "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6891884688986897224/posts/2102685944978788809",
       "title": "The Adventures of Sherlock Holmes",
       "content": "",
-      "images": "https://gutenberg.org/files/1661/1661-h/images/cover.jpg",
+      "img": "https://gutenberg.org/files/1661/1661-h/images/cover.jpg",
       "author": {
         "id": "06801289175604039755",
         "displayName": "Nurul Octavia",
