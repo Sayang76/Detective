@@ -1,0 +1,35 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "2102685944978788809",
+      "blog": {
+        "id": "6891884688986897224"
+      },
+      "published": "2022-01-24T00:08:00-08:00",
+      "updated": "2022-01-24T02:54:54-08:00",
+      "url": "http://detectivemysterystories.blogspot.com/2022/01/the-adventures-of-sherlock-holmes.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6891884688986897224/posts/2102685944978788809",
+      "title": "The Adventures of Sherlock Holmes",
+      "content": "",
+      "author": {
+        "id": "06801289175604039755",
+        "displayName": "Nurul Octavia",
+        "url": "https://www.blogger.com/profile/06801289175604039755",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6891884688986897224/posts/2102685944978788809/comments"
+      },
+      "labels": [
+        "Arthur Conan Doyle"
+      ],
+      "etag": "\"dGltZXN0YW1wOiAxNjQzMDIxNjk0MDUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMi0wMS0yNFQxMDo1NDo1NC4wNTJa\""
+}
